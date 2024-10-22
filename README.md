@@ -14,4 +14,4 @@ Dizi tanımlama, listeme ve metotları yapıldı.
 ## 📍 Proje 7: Foreach Loops
 Foreach döngüsü öğrenildi ve sınav sistem uygulaması yapıldı.
 ## 📍 Proje 8: Methods - Fonksiyonlar
-Void fonksiyonları, geriye değer döndüren, geriye değer döndürmeyen fonksiyonlar ve örnek uygulama yapıldı.
+Void fonksiyonları, geriye değer döndüren, geriye değer döndürmeyen fonksiyonlar öğrenildi. Örnek uygulama yapıldı.
